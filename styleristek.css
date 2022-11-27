@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(sch.jpg);
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-around
+}
+
+.outcome-box{
+    margin: 50px;
+    display: flex;
+    font-family: Georgia;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.display-item{
+    margin-top: 80px;
+}
